@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\STRIX\Documents\Semester VI\Prak TPM\PrakTPM_Tugas2\build\windows\CMakeFiles\ffbd8e581991eb1bc9a1698dec1adacd\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9CE6A44D-6E10-3B39-8B29-F655B302D69D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

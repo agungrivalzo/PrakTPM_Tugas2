@@ -1,0 +1,28 @@
+^C:\USERS\STRIX\DOCUMENTS\SEMESTER VI\PRAK TPM\PRAKTPM_TUGAS2\BUILD\WINDOWS\CMAKEFILES\2DA49D20505D245E244776287B409556\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter "PROJECT_DIR=C:\Users\STRIX\Documents\Semester VI\Prak TPM\PrakTPM_Tugas2" FLUTTER_ROOT=C:\src\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\STRIX\Documents\Semester VI\Prak TPM\PrakTPM_Tugas2\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\STRIX\Documents\Semester VI\Prak TPM\PrakTPM_Tugas2" "FLUTTER_TARGET=C:\Users\STRIX\Documents\Semester VI\Prak TPM\PrakTPM_Tugas2\lib\main.dart" DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\STRIX\Documents\Semester VI\Prak TPM\PrakTPM_Tugas2\.dart_tool\package_config.json" C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\STRIX\DOCUMENTS\SEMESTER VI\PRAK TPM\PRAKTPM_TUGAS2\BUILD\WINDOWS\CMAKEFILES\FFBD8E581991EB1BC9A1698DEC1ADACD\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\STRIX\DOCUMENTS\SEMESTER VI\PRAK TPM\PRAKTPM_TUGAS2\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/windows" "-BC:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows" --check-stamp-file "C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

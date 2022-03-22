@@ -1,0 +1,11 @@
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Poppins-Light.ttf
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Poppins-SemiBold.ttf
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/data/flutter_assets/assets/images/image1.jpeg
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/data/flutter_assets/assets/images/image2.jpeg
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/STRIX/Documents/Semester VI/Prak TPM/PrakTPM_Tugas2/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
